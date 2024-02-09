@@ -16,6 +16,7 @@ namespace OnlineShop.Controllers
         public IActionResult Index()
         {
             return View();
+            //test comment
         }
 
         public IActionResult Privacy()
