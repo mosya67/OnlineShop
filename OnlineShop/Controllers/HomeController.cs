@@ -16,7 +16,6 @@ namespace OnlineShop.Controllers
         public IActionResult Index()
         {
             return View();
-            //wewew
         }
 
         public IActionResult Privacy()
